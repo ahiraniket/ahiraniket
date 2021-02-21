@@ -6,7 +6,7 @@
 - 💬 Ask me about **Python, Data Science, Machine Learning, Web Development** 😃
 
 - 📧 How to reach me? --> 
-- <br><br>
+ <br><br>
 <a href="https://www.linkedin.com/in/aniketahir/"><img src="https://github.com/ahiraniket/aniketahir/blob/master/Logos/linkedin%20(2).png" width="30"></a>
 &nbsp;<a href="https://www.kaggle.com/aniketahir"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="30" ></a>
 <!--<h3 align="left">Languages and Tools I am familiar with:</h3>
