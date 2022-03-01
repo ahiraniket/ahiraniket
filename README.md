@@ -16,3 +16,29 @@
 <!--
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketahir&show_icons=true&theme=dark&title_color=0c0404&text_color=000000&bg_color=f8f8ff&locale=en&layout=compact" alt="aniketahir" /></p>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketahir&theme=default" alt="aniketahir" /></p>
+### GitHub Statastics:
+
+<table>
+	<tr>
+		<td>
+			<!-- Stats -->
+			<a href="https://github.com/ahiraniket/github-readme-stats">
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahiraniket&show_icons=true&include_all_commits=true&border_radius=0&title_color=166FE9&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&hide_border=true&hide_title=true&rank_color=57181C" alt="Parth's github stats" />
+			</a>
+		</td>
+		<td>
+			<!-- Languages -->
+			<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahiraniket&show_icons=true&title_color=ffffff&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&layout=default&card_width=450&border_radius=0&hide_border=true" alt="parth-patat" /></p>
+		</td>
+</table>
+
+<!-- streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahiraniket&theme=dark&ring=CA242464&fire=B6A200&currStreakLabel=FFFFFFD7&border=3B434BC0&stroke=DD2727C0&background=0D1117)](https://git.io/streak-stats)
+
+
+<!-- 
+title_color 166FE9
+text_color 166FE9
+icon_color 166FE9
+bg_color ffffff
+-->
