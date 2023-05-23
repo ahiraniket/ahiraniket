@@ -17,7 +17,8 @@
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketahir&show_icons=true&theme=dark&title_color=0c0404&text_color=000000&bg_color=f8f8ff&locale=en&layout=compact" alt="aniketahir" /></p>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketahir&theme=default" alt="aniketahir" /></p> -->
 ### GitHub Statastics:
-
+<!-- streak -->
+<p align="center"><img align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=ahiraniket&theme=rising-sun&hide_border=true&background=01006100" alt="ahiraniket" /></p>
 <table>
 	<tr>
 		<td>
@@ -32,8 +33,7 @@
 		</td>
 </table>
 
-<!-- streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahiraniket&theme=highcontrast" alt="ahiraniket" /></p>
+
 
 
 <!-- 
