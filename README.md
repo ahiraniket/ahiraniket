@@ -33,7 +33,7 @@
 </table>
 
 <!-- streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahiraniket&theme=dark&ring=CA242464&fire=B6A200&currStreakLabel=FFFFFFD7&border=3B434BC0&stroke=DD2727C0&background=0D1117)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahiraniket&theme=highcontrast" alt="ahiraniket" /></p>
 
 
 <!-- 
