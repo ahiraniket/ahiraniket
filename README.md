@@ -29,7 +29,7 @@
 		</td>
 		<td>
 			<!-- Languages -->
-			<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahiraniket&show_icons=true&title_color=ffffff&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&layout=default&card_width=450&border_radius=0&hide_border=true" alt="ahiraniket" /></p>
+			<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahiraniket&show_icons=true&title_color=ffffff&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&theme=default&card_width=450&border_radius=0&hide_border=true" alt="ahiraniket" /></p>
 		</td>
 </table>
 
