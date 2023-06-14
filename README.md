@@ -1,4 +1,4 @@
-<img align="right" height="160" src="https://github.com/ahiraniket/ahiraniket/assets/57832227/40d5f249-1110-41da-817f-32555903b843"  />
+<img align="right" height="160" src="profile.gif"  />
 
 ###
 
