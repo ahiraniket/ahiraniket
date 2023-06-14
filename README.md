@@ -1,4 +1,4 @@
-<img align="right" height="160" src="profile.gif"  />
+
 
 ###
 
