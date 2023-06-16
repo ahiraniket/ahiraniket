@@ -43,7 +43,7 @@
 		<td>
 			<!-- Stats -->
 			<a href="https://github.com/ahiraniket/github-readme-stats">
-				<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahiraniket&include_all_commits=true&count_private=true&show_icons=true&border_radius=0&title_color=166FE9&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&hide_border=true&hide_title=true&rank_color=57181C" alt="Aniket's github stats" /> 
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahiraniket&include_all_commits=TRUE&count_private=TRUE&show_icons=true&border_radius=0&title_color=166FE9&icon_color=57181C&text_color=ffffff&bg_color=0D1117&locale=en&hide_border=true&hide_title=true&rank_color=57181C" alt="Aniket's github stats" /> 
 			</a>
 		</td>
 		<td>
