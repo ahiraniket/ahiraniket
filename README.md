@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on Software Development and Product Management<br>- 📚 I'm currently pursuing MS in Software Engineering<br>- 💬 Ask me about Java, Software Development, Data Science, Machine Learning, Web Development</p>
+<p align="left">- 🔭 I’m working on Software Development and Product Management<br>- 📚 I'm currently pursuing MS in Software Engineering<br>- 💬 Ask me about Java, Software Development, Data Science, Machine Learning, Web Development.</p>
 
 ###
 
